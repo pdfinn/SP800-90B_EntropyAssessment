@@ -12,3 +12,14 @@ ea_transpose
 .DS_Store
 *.xml
 *.iml
+cpp/selftest/biased-random-bits.res
+cpp/selftest/biased-random-bytes.res
+cpp/selftest/data.pi.res
+cpp/selftest/normal.res
+cpp/selftest/rand1_short.res
+cpp/selftest/rand4_short.res
+cpp/selftest/rand8_short.res
+cpp/selftest/ringOsc-nist.res
+cpp/selftest/truerand_1bit.res
+cpp/selftest/truerand_4bit.res
+cpp/selftest/truerand_8bit.res
